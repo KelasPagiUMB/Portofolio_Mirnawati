@@ -151,7 +151,7 @@
 					  <li class="nav-item"><a class="nav-link active" href="#top" data-scroll="top">Home<span class="sr-only">(current)</span></a></li>
 					  <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
 					  <li class="nav-item"><a class="nav-link" href="#skill">Skill</a></li>
-					  <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
+					  <li class="nav-item"><a class="nav-link" href="#timeline">Timeline</a></li>
 					  <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>		
 					  <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>	
 					</ul>
@@ -347,52 +347,167 @@
 	</div>
 	<!--	End Experience and Projects
 	===================================================-->
-	<!--	Start Services
+	<!--	Start Timeline
 	===================================================-->
-	<section id="services" class="py_80 full_row bg_white">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12 col-lg-12">
-					<div class="section_title_1 text-center mx-auto pb_60 wow animated slideInUp">
-	                    <h2 class="title text-uppercase"><span class="line_double mx-auto color_default">services</span>What i do</h2>
-	                    <span class="sub_title">As a Database Administrator, my role focuses on developing and maintaining efficient, secure, and high-performance database solutions. I specialize in the following key areas.</span>
-	                </div>
-				</div>
-				<div class="services_item1">
-					<div class="col-md-12 col-lg-12">
-						<div class="row">
-							<div class="col-md-6 col-lg-4">
-								<div class="service_two text-center pt_15 mb_30 wow animated slideInUp">
-					              <div class="srv_item_number color_lightgray"><strong>01.</strong></div>
-					              <h3 class="p_20 text-uppercase color_primary">Database Design</h3>
-					              <div class="srv_icon color_white"><span class="flaticon-website-design-symbol"></span></div>
-					              <p>I excel in designing database structures that are not only efficient but also adhere to best practices. My focus on normalization ensures the integrity and consistency of data, laying a strong foundation for robust database systems .</p>
-								</div>
-							</div>
-							<div class="col-md-6 col-lg-4">
-								<div class="service_two text-center pt_15 mb_30 wow animated slideInUp">
-					              <div class="srv_item_number color_lightgray"><strong>02.</strong></div>
-					              <h3 class="p_20 text-uppercase color_primary">Daily Administration</h3>
-					              <div class="srv_icon color_white"><span class="flaticon-programming"></span></div>
-					              <p>In the realm of daily database administration, I am adept at executing critical processes such as backup, restore, and essential maintenance tasks. I approach these tasks with precision to guarantee the continuous and smooth operation of the database environment.</p>
-								</div>
-							</div>
-							<div class="col-md-6 col-lg-4">
-								<div class="service_two text-center pt_15 mb_30 wow animated slideInUp">
-					              <div class="srv_item_number color_lightgray"><strong>03.</strong></div>
-					              <h3 class="p_20 text-uppercase color_primary">Communication and User Supports</h3>
-					              <div class="srv_icon color_white"><span class="flaticon-wordpress-logo"></span></div>
-					              <p>Effective communication is at the core of my interactions with team members and stakeholders. I provide support and training to users, maintaining a responsive and collaborative environment. </p>
-								</div>
-							</div>
-							</div>
-						</div>
+
+<section id="timeline" class="timeline_area section_padding_130">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-sm-8 col-lg-6">
+                <!-- Section Heading-->
+                <div class="section_heading text-center">
+                    <h6>Our History</h6>
+                    <h3>A short story of my journey for 1 year (2023)</h3>
+                    <div class="line"></div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <!-- Timeline Area-->
+                <div class="apland-timeline-area">
+                    <!-- Single Timeline Content-->
+                    <div class="single-timeline-area">
+                        <div class="timeline-date wow fadeInLeft" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInLeft;">
 					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!--	End Services
+                        <div class="row">
+                            <div class="col-12 col-md-6 col-lg-4">
+                                <div class="single-timeline-content d-flex wow fadeInLeft" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                                    <div class="timeline-icon"><i class="fa fa-user-circle-o" aria-hidden="true"></i></div>
+                                    <div class="timeline-text">
+                                        <h6>January</h6>
+                                        <p>Final exam and Play at Monas with friends.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-4">
+                                <div class="single-timeline-content d-flex wow fadeInLeft" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
+                                    <div class="timeline-icon"><i class="fa fa-archive" aria-hidden="true"></i></div>
+                                    <div class="timeline-text">
+                                        <h6>February</h6>
+                                        <p>UMB PKKMB socialization and start semester 2.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-4">
+                                <div class="single-timeline-content d-flex wow fadeInLeft" data-wow-delay="0.7s" style="visibility: visible; animation-delay: 0.7s; animation-name: fadeInLeft;">
+                                    <div class="timeline-icon"><i class="fa fa-moon-o" aria-hidden="true"></i></div>
+                                    <div class="timeline-text">
+                                        <h6>March</h6>
+                                        <p>Ramadhan fasting 1444H and Follow kajian.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Single Timeline Content-->
+                    <div class="single-timeline-area">
+                        <div class="timeline-date wow fadeInLeft" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInLeft;">
+					</div>
+                        <div class="row">
+                            <div class="col-12 col-md-6 col-lg-4">
+                                <div class="single-timeline-content d-flex wow fadeInLeft" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                                    <div class="timeline-icon"><i class="fa fa-book" aria-hidden="true"></i></div>
+                                    <div class="timeline-text">
+                                        <h6>April</h6>
+                                        <p>Midterms and Going home for the holidays.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-4">
+                                <div class="single-timeline-content d-flex wow fadeInLeft" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
+                                    <div class="timeline-icon"><i class="fa fa-list-alt" aria-hidden="true"></i></div>
+                                    <div class="timeline-text">
+                                        <h6>May</h6>
+                                        <p>Continue studying semester 2.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-4">
+                                <div class="single-timeline-content d-flex wow fadeInLeft" data-wow-delay="0.7s" style="visibility: visible; animation-delay: 0.7s; animation-name: fadeInLeft;">
+                                    <div class="timeline-icon"><i class="fa fa-free-code-camp" aria-hidden="true"></i></div>
+                                    <div class="timeline-text">
+                                        <h6>June</h6>
+                                        <p>Final exam 2nd semester and holiday.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Single Timeline Content-->
+					 <div class="single-timeline-area">
+                        <div class="timeline-date wow fadeInLeft" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInLeft;">
+					</div>
+                        <div class="row">
+                            <div class="col-12 col-md-6 col-lg-4">
+                                <div class="single-timeline-content d-flex wow fadeInLeft" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                                    <div class="timeline-icon"><i class="fa fa-bed" aria-hidden="true"></i></div>
+                                    <div class="timeline-text">
+                                        <h6>July</h6>
+                                        <p>Holidays at home and Eid al-Adha.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-4">
+                                <div class="single-timeline-content d-flex wow fadeInLeft" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
+                                    <div class="timeline-icon"><i class="fa fa-heart" aria-hidden="true"></i></div>
+                                    <div class="timeline-text">
+                                        <h6>August</h6>
+                                        <p>Celebrating Indonesian independence.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-4">
+                                <div class="single-timeline-content d-flex wow fadeInLeft" data-wow-delay="0.7s" style="visibility: visible; animation-delay: 0.7s; animation-name: fadeInLeft;">
+                                    <div class="timeline-icon"><i class="fa fa-users " aria-hidden="true"></i></div>
+                                    <div class="timeline-text">
+                                        <h6>September</h6>
+                                        <p>Start 3rd semester and Masta Committee.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Single Timeline Content-->
+                    <div class="single-timeline-area">
+                        <div class="timeline-date wow fadeInLeft" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInLeft;">
+                        </div>
+                        <div class="row">
+                            <div class="col-12 col-md-6 col-lg-4">
+                                <div class="single-timeline-content d-flex wow fadeInLeft" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                                    <div class="timeline-icon"><i class="fa fa-blind" aria-hidden="true"></i></div>
+                                    <div class="timeline-text">
+                                        <h6>October</h6>
+                                        <p>Go play to Kotu with friends and Play to Rangkas.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-4">
+                                <div class="single-timeline-content d-flex wow fadeInLeft" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
+                                    <div class="timeline-icon"><i class="fa fa-desktop" aria-hidden="true"></i></div>
+                                    <div class="timeline-text">
+                                        <h6>November</h6>
+                                        <p>Midterms and Follow activities IMM.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-4">
+                                <div class="single-timeline-content d-flex wow fadeInLeft" data-wow-delay="0.7s" style="visibility: visible; animation-delay: 0.7s; animation-name: fadeInLeft;">
+                                    <div class="timeline-icon"><i class="fa fa-graduation-cap" aria-hidden="true"></i></div>
+                                    <div class="timeline-text">
+                                        <h6>December</h6>
+                                        <p>Following DAD activities and Following padus.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+	<!--	End Timeline
 	===================================================-->
 	<!--	Start Portfolio
 	===================================================-->
