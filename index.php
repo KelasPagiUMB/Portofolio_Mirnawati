@@ -586,7 +586,7 @@
 		    				<div class="socal_media_2 mt_15 d-inline-block">
 					            <ul>
 					                <li><a href="https://www.youtube.com/@user-vh2lr3gk6c"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-					                <li><a href="#"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+					                <li><a href="https://github.com/watimirna"><i class="fa fa-github" aria-hidden="true"></i></a></li>
 					                <li><a href="mailto:mirnaaa.watii03@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
 					                <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 					                <li><a href="https://instagram.com/mirnawatii0_0?igshid=MTNiYzNiMzkwZA=="><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
