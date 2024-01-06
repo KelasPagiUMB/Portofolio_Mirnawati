@@ -212,8 +212,8 @@
 								<div class="col-md-12 col-lg-6">
 									<ul>
 										<li><span class="color_secondery">Name :</span> Mirnawati </li>
-										<li><span class="color_secondery">Email :</span> mirnaaa.watii03@gmail.com</li>
-										<li><span class="color_secondery">Phone :</span> +62 858 9455 4973</li>	
+										<li><span class="color_secondery">Email :</span> mirna.wati03@gmail.com</li>
+										<li><span class="color_secondery">Phone :</span> +62 857 9433 4973</li>	
 									</ul>
 								</div>
 								<div class="col-md-12 col-lg-6">
@@ -675,13 +675,13 @@
 		    						<li>
 		    							<div class="contact_text">
 		    								<h6 class="font-weight-bold color_primary">Email</h6>
-		    								<span class="color_secondery">mirnaaa.watii03@gmail.com</span>
+		    								<span class="color_secondery">mirna.wati03@gmail.com</span>
 		    							</div>
 		    						</li>
 		    						<li>
 		    							<div class="contact_text">
 		    								<h6 class="font-weight-bold color_primary">Phone</h6>
-		    								<span class="color_secondery">+62 858 9455 4973</span>
+		    								<span class="color_secondery">+62 857 9433 4973</span>
 		    							</div>
 		    						</li>
 		    						<li>
